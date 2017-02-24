@@ -1,5 +1,6 @@
 ## Testing Documentation
 
+| Software Test       | Persona Switcher                                  |
 | :--------------------: | :-----------------------------------------------: |
 | Test Suite ID          |                                    |
 | Test Case ID           |                                                   |
