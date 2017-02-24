@@ -1,5 +1,5 @@
 ### Testing Documentation
-
+| ---------------------- | :-----------------------------------------------: |
 | Test Suite ID          |                                                   |
 | Test Case ID           |                                                   |
 | Test Case Summary      |                                                   |
